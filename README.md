@@ -6,7 +6,7 @@
   -  https://ip.adamliu.app/
   -  and more I don't want to share to public
 - 📫 How to reach me? 
-  - I have exposed enought info in the Internet. I think you should know how to reach me if you really want to.
+  - I have exposed enought info to the Internet. I think you should know how to reach out to me if you really want to.
 
 <!---
 adam0x01/adam0x01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
