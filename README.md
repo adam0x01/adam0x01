@@ -3,7 +3,7 @@
 - 🌱 I write code and essay evey day.
 - 💞️ In my spare time, I made something:
   -  https://apps.apple.com/us/developer/shiyu-liu/id1655141777
-  -  https://ip.adamliu.app/
+  -  https://ip.adamliu.app/ (`curl https://ip.adamliu.app/`)
   -  https://marketplace.visualstudio.com/items?itemName=Orderly.Orderly
   -  and more I don't want to share to public
 - 📫 How to reach me? 
