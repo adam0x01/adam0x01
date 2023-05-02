@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating app/web to help peoples.
 - 🌱 I write code and essay evey day.
 - 💞️ In my spare time, I made something:
-  -  https://apps.apple.com/us/developer/%E4%B8%96%E7%BE%BD-%E5%88%98/id591704251
+  -  https://apps.apple.com/us/developer/shiyu-liu/id1655141777
   -  https://ip.adamliu.app/
   -  https://marketplace.visualstudio.com/items?itemName=Orderly.Orderly
   -  and more I don't want to share to public
