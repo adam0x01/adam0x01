@@ -5,7 +5,7 @@
   -  [PhotoSpeak](https://photospeak.adamliu.app/), [AppStore](https://apps.apple.com/us/app/photospeak-ai-english-tool/id6742110376), [Google Play](https://play.google.com/store/apps/details?id=app.adamliu.photospeak&pli=1)
   -  [Batch Translator](https://www.batchtranslator.com/)
   -  https://ip.adamliu.app/ (`curl https://ip.adamliu.app/`)
-  -  https://marketplace.visualstudio.com/items?itemName=Orderly.Orderly
+  -  [VS Code Ext](https://marketplace.visualstudio.com/items?itemName=Orderly.Orderly)
   -  More app in [here](https://apps.apple.com/us/developer/shiyu-liu/id1655141777)
   -  and more I don't want to share to public
 - 📫 How to reach me? 
