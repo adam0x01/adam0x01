@@ -7,9 +7,8 @@
   -  https://ip.adamliu.app/ (`curl https://ip.adamliu.app/`)
   -  [VS Code Ext](https://marketplace.visualstudio.com/items?itemName=Orderly.Orderly)
   -  More app in [here](https://apps.apple.com/us/developer/shiyu-liu/id1655141777)
-  -  and more I don't want to share to public
 - 📫 How to reach me? 
-  - I have exposed enought info to the Internet. I think you should know how to reach out to me if you really want to.
+  - xhiyud[at]gmail.com
 
 <!---
 adam0x01/adam0x01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
